@@ -136,4 +136,3 @@ Copyright © 2025 Eslam AlSaeed
 
 **Tags / Keywords**  
 `python` `streamlit` `ai-assistant` `virtual-assistant` `multilingual` `arabic-nlp` `voice-assistant` `speech-to-text` `intent-classification` `fine-tuning` `transformers` `bert` `arbert` `reminder-app` `sqlite`
-```
