@@ -1,0 +1,5 @@
+# Ignore large model files
+arabic_finetuned_model/
+*.bin
+*.safetensors
+*.pt
