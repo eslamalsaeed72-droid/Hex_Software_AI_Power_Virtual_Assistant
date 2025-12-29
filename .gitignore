@@ -1,5 +1,5 @@
-# Ignore large model files
+# Virtual environment folder
+venv/
+
+# Fine-tuned Arabic model folder (large files)
 arabic_finetuned_model/
-*.bin
-*.safetensors
-*.pt
