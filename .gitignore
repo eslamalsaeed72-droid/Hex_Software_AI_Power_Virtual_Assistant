@@ -1,5 +1,9 @@
-# Virtual environment folder
+# Virtual Environment
 venv/
 
-# Fine-tuned Arabic model folder (large files)
+# Large ML models
 arabic_finetuned_model/
+
+# Python cache
+__pycache__/
+*.pyc
